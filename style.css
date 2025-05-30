@@ -1,0 +1,31 @@
+       body { background-color: rgb(200, 203, 203);
+            font-family: Arial, sans-serif;
+            padding: 20px; 
+        }
+        section {
+            margin-bottom: 30px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        input {
+            margin: 5px;
+        }
+        button {
+            margin-top: 10px;
+        }
+        .resultado {
+            font-weight: bold;
+            color: #2980b9;
+        }
+
+    .logo-direita {
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    width: 150px; 
+    height: auto;
+}
